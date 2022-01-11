@@ -8,7 +8,7 @@ Might be helpful for future developers working on this repository.
 * Be **self-motivated**
 * Don't wait for an issue to be assigned to you, but ...
   * ... think of new issues which can be opened
-  * ... open an issue and check its priority with @Shahin
+  * ... open an issue and check its priority with colleagues
   * ... work on current open issues according to priority
 * Seek comment on issues and PRs
   * Get help
